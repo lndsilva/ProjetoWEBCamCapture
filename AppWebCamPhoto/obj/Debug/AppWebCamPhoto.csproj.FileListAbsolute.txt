@@ -1,0 +1,17 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.Form1.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AppWebCamPhoto.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AppWebCamPhoto.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AppWebCamPhoto.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.dll
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.Video.dll
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.xml
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.Video.xml
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.csproj.CopyComplete
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp_WEBCAM_Capture\ProjetoWEBCamCapture\AppWebCamPhoto\obj\Debug\AppWebCamPhoto.pdb
